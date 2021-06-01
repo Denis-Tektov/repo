@@ -1,0 +1,69 @@
+[33mcommit 97209c8a1b9b206639c5fb1441e5bb32ff4e505a[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 22:28:05 2021 +0300
+
+    added dev-branch
+
+[33mcommit 78187413cc75ee83d70b20656d751e34e15db136[m[33m ([m[1;32mmain[m[33m)[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 22:25:36 2021 +0300
+
+    Modified readne.md
+
+[33mcommit 7c15a0f40ebc0baacbaca0fdf37afddd1ddfcb40[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 22:02:10 2021 +0300
+
+    Revert "created images directory"
+    
+    This reverts commit ec2ab1abd48b6dafe83d7b79f1ee2a28bafa5359.
+
+[33mcommit 816a71dc551208ba31c8c3892c24d428445e7d31[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 21:47:11 2021 +0300
+
+    test commit
+
+[33mcommit 49f8f8575788ead74dd9fedf5176fe93d03ad0e9[m
+Author: Denis Tektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:39:13 2021 +0300
+
+    ignore set up
+    
+    dds
+
+[33mcommit 2b4489dad33df62c2926a679514fc21e258f6ebd[m
+Author: Denis Tektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:31:06 2021 +0300
+
+    crate change.md
+
+[33mcommit de942d797580746e93f4771d19effb3d4b4eb599[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:26:06 2021 +0300
+
+    ignore set up
+
+[33mcommit ec2ab1abd48b6dafe83d7b79f1ee2a28bafa5359[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:23:16 2021 +0300
+
+    created images directory
+
+[33mcommit b838c6bfac9aba9ba3bb3c9c823a99d2f199f891[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:18:55 2021 +0300
+
+    updated readme.me
+
+[33mcommit d26f19b785af1b2e8226f9fc17e241252827e691[m
+Author: DenisTektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:14:31 2021 +0300
+
+    add readme1.md
+
+[33mcommit 7401acf9033d50db3ee85b2e854582dcfcf1013d[m
+Author: Denis Tektov <tektov.denis2077@yandex.ru>
+Date:   Tue Jun 1 18:11:23 2021 +0300
+
+    Initial commit
